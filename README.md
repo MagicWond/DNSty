@@ -29,19 +29,7 @@ Designed for DevOps and power‑users who need a **zero‑configuration** way to
 
 ## Installation
 
-The easiest way to install DNSty is via Cargo, the Rust package manager.
-
-```bash
-# Install Rust toolchain if you haven't already
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-
-# Clone the repository and build the binary
-git clone https://github.com/your-org/DNSty.git
-cd DNSty
-cargo install --path .
-```
-
-The compiled binary will be placed in `~/.cargo/bin`. Ensure that directory is on your `$PATH`.
+The easiest way to install DNSty is just to download the file for your OS/arch and unzip it.
 
 ---
 
