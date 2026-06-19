@@ -136,12 +136,6 @@ The program will:
 
 ---
 
-## Contributing
-
-Contributions are welcome! Please fork the repository, make your changes, and open a Pull Request. Follow the existing code style (Rustfmt) and ensure `cargo test` passes.
-
----
-
 ## License
 
 Distributed under the **MIT License**. See `LICENSE.md` for details.
